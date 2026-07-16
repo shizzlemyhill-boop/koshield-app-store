@@ -1,7 +1,7 @@
 {
   "store": {
     "name": "KoShield App Store",
-    "updatedAt": "2026-07-15"
+    "updatedAt": "2026-07-16"
   },
   "apps": [
     {
@@ -25,6 +25,17 @@
       "size": "15.5 MB",
       "iconUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/icons/tehillim.png",
       "apkUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/apks/tehillim.apk"
+    },
+    {
+      "id": "il.avimak.TehillatHashem",
+      "name": "Siddur Tehillat Hashem",
+      "version": "3.2.5",
+      "versionCode": 42,
+      "description": "The complete Nusach Ari siddur (Tehillat Hashem) with weekday, Shabbos, and Yom Tov davening.",
+      "category": "Torah",
+      "size": "28.4 MB",
+      "iconUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/icons/siddur-tehillat-hashem.png",
+      "apkUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/apks/siddur-tehillat-hashem.apk"
     }
   ]
 }
