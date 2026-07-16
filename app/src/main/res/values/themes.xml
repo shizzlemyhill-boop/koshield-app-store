@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.KoShield" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ko_primary</item>
+        <item name="colorPrimaryDark">@color/ko_primary_dark</item>
+        <item name="colorSecondary">@color/ko_accent</item>
+        <item name="android:colorBackground">@color/ko_background</item>
+        <item name="colorSurface">@color/ko_surface</item>
+        <item name="android:statusBarColor">@color/ko_primary_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

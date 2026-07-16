@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditTextPreference
+        app:key="catalog_url"
+        app:title="@string/catalog_url_title"
+        app:summary="@string/catalog_url_summary"
+        app:useSimpleSummaryProvider="true"
+        app:dialogTitle="@string/catalog_url_title" />
+</PreferenceScreen>

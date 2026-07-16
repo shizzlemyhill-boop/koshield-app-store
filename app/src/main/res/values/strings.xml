@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KoShield App Store</string>
+    <string name="settings_title">Settings</string>
+    <string name="catalog_url_title">Catalog URL</string>
+    <string name="catalog_url_summary">Where the app store fetches its list of apps from</string>
+    <string name="install">Install</string>
+    <string name="open">Open</string>
+    <string name="update">Update</string>
+    <string name="empty_message">No apps yet. Pull down to refresh, or check your Catalog URL in Settings.</string>
+    <string name="loading_error">Couldn\'t load the catalog. Check your connection and the Catalog URL.</string>
+    <string name="downloading">Downloading %1$s…</string>
+    <string name="download_failed">Download failed for %1$s</string>
+    <string name="enable_unknown_sources">To install apps, allow KoShield App Store to install unknown apps, then tap Install again.</string>
+</resources>

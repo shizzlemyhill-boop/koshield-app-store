@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ko_primary">#0F5F4E</color>
+    <color name="ko_primary_dark">#0A4438</color>
+    <color name="ko_accent">#1FB98C</color>
+    <color name="ko_background">#F5F7F6</color>
+    <color name="ko_surface">#FFFFFF</color>
+    <color name="ko_text">#1A1C1B</color>
+    <color name="ko_text_muted">#5F6B67</color>
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "store": {
+    "name": "KoShield App Store",
+    "updatedAt": "2026-07-15"
+  },
+  "apps": [
+    {
+      "id": "com.koshield.filter",
+      "name": "KoShield Filter",
+      "version": "2.1.0",
+      "versionCode": 210,
+      "description": "The core KoShield content filter. Keeps browsing and apps within approved boundaries.",
+      "category": "Filtering",
+      "size": "8.4 MB",
+      "iconUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/koshield-catalog/main/icons/filter.png",
+      "apkUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/koshield-catalog/main/apks/koshield-filter-2.1.0.apk"
+    },
+    {
+      "id": "com.koshield.dashboard",
+      "name": "KoShield Dashboard",
+      "version": "1.0.3",
+      "versionCode": 103,
+      "description": "Manage filter settings, view activity, and request app approvals from one place.",
+      "category": "Utilities",
+      "size": "5.1 MB",
+      "iconUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/koshield-catalog/main/icons/dashboard.png",
+      "apkUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/koshield-catalog/main/apks/koshield-dashboard-1.0.3.apk"
+    }
+  ]
+}
