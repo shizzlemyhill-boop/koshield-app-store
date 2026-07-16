@@ -1,0 +1,41 @@
+name: Build KoShield App Store APK
+
+# Builds an installable (debug-signed) APK every time you push, and lets you
+# trigger a build manually from the Actions tab. The finished .apk is attached
+# to the run as a downloadable artifact.
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the project
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Set up the Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Set up Gradle 8.2
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.2'
+
+      - name: Build debug APK
+        run: gradle assembleDebug --no-daemon --stacktrace
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: KoShield-App-Store-debug
+          path: app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
