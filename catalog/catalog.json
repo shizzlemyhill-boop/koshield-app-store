@@ -5,26 +5,26 @@
   },
   "apps": [
     {
-      "id": "com.koshield.filter",
-      "name": "KoShield Filter",
-      "version": "2.1.0",
-      "versionCode": 210,
-      "description": "The core KoShield content filter. Keeps browsing and apps within approved boundaries.",
-      "category": "Filtering",
-      "size": "8.4 MB",
-      "iconUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/koshield-catalog/main/icons/filter.png",
-      "apkUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/koshield-catalog/main/apks/koshield-filter-2.1.0.apk"
+      "id": "app.tfs.music",
+      "name": "24Six Music",
+      "version": "66.3.19",
+      "versionCode": 329,
+      "description": "Kosher music streaming \u2014 Jewish and Chassidic artists, playlists, and stations.",
+      "category": "Music",
+      "size": "23.5 MB",
+      "iconUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/icons/24six-music.png",
+      "apkUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/apks/24six-music.apk"
     },
     {
-      "id": "com.koshield.dashboard",
-      "name": "KoShield Dashboard",
-      "version": "1.0.3",
-      "versionCode": 103,
-      "description": "Manage filter settings, view activity, and request app approvals from one place.",
-      "category": "Utilities",
-      "size": "5.1 MB",
-      "iconUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/koshield-catalog/main/icons/dashboard.png",
-      "apkUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/koshield-catalog/main/apks/koshield-dashboard-1.0.3.apk"
+      "id": "il.avimak.Tehillim",
+      "name": "Tehillim (Ohel Yosef Yitzchak)",
+      "version": "3.1.3",
+      "versionCode": 32,
+      "description": "The full book of Tehillim (Psalms) in the Ohel Yosef Yitzchak edition, for daily recital.",
+      "category": "Torah",
+      "size": "15.5 MB",
+      "iconUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/icons/tehillim.png",
+      "apkUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/apks/tehillim.apk"
     }
   ]
 }
