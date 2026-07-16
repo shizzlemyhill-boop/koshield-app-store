@@ -36,6 +36,50 @@
       "size": "28.4 MB",
       "iconUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/icons/siddur-tehillat-hashem.png",
       "apkUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/apks/siddur-tehillat-hashem.apk"
+    },
+    {
+      "id": "org.likkuteisichos",
+      "name": "Likkutei Sichos",
+      "version": "1.0.28",
+      "versionCode": 45,
+      "description": "The Rebbe's Likkutei Sichos \u2014 weekly sichos and teachings organized by parsha and occasion.",
+      "category": "Torah",
+      "size": "40.8 MB",
+      "iconUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/icons/likkutei-sichos.png",
+      "apkUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/apks/likkutei-sichos.apk"
+    },
+    {
+      "id": "org.chabad.android.DailyStudy",
+      "name": "Chabad.org Daily Torah Study",
+      "version": "2.2.7",
+      "versionCode": 260619001,
+      "description": "Daily Chumash, Tanya, and Rambam study from Chabad.org, with the day's schedule and audio.",
+      "category": "Torah",
+      "size": "31.1 MB",
+      "iconUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/icons/chabad-daily-torah.png",
+      "apkUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/apks/chabad-daily-torah.apk"
+    },
+    {
+      "id": "org.sefaria.sefaria",
+      "name": "Sefaria",
+      "version": "6.7.3",
+      "versionCode": 62061041,
+      "description": "A free library of Jewish texts \u2014 Tanach, Talmud, Halacha and more, with translations and links.",
+      "category": "Torah",
+      "size": "32.3 MB",
+      "iconUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/icons/sefaria.png",
+      "apkUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/apks/sefaria.apk"
+    },
+    {
+      "id": "com.lionscribe.hebdate",
+      "name": "HebDate Hebrew Calendar",
+      "version": "9.02",
+      "versionCode": 902,
+      "description": "Hebrew calendar with dates, zmanim, holidays, and yahrzeit reminders.",
+      "category": "Utilities",
+      "size": "7.8 MB",
+      "iconUrl": "",
+      "apkUrl": "https://raw.githubusercontent.com/shizzlemyhill-boop/koshield-app-store/main/apks/hebdate.apk"
     }
   ]
 }
